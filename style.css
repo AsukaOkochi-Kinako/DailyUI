@@ -19,12 +19,12 @@ body {
 .all {
     margin: 0 auto;
     text-align: center;
-    padding: 50% 0;
 }
 
 .subtitle {
     color: white;
     font-weight: 100;
+    display: block;
 }
 
 .myFontClass {
